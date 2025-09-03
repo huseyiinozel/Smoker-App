@@ -1,0 +1,134 @@
+{
+    "tr": {
+        "defaultError": {
+            "title": "Hata",
+            "error": "Bir şeyler ters gitti. Lütfen tekrar deneyin."
+        },
+        "common": {
+            "ok": "Tamam",
+            "cancel": "İptal",
+            "save": "Kaydet",
+            "delete": "Sil",
+            "weekdays": [
+                "Pazar",
+                "Pazartesi",
+                "Salı",
+                "Çarşamba",
+                "Perşembe",
+                "Cuma",
+                "Cumartesi"
+            ],
+            "months": [
+                "Ocak",
+                "Şubat",
+                "Mart",
+                "Nisan",
+                "Mayıs",
+                "Haziran",
+                "Temmuz",
+                "Ağustos",
+                "Eylül",
+                "Ekim",
+                "Kasım",
+                "Aralık"
+            ]
+        },
+        "home": {
+            "title": "Ana Sayfa",
+            "date": "Bugün {date}",
+            "timeSinceLastSmoke": "Son Sigaradan Bu Yana Geçen Süre",
+            "smokedCount": "Bugün İçilen Toplam:",
+            "remainingSmokes": "Günlük Kalan Sigara:",
+            "overLimit": "Limit Aşıldı: {count} Sigara",
+            "listHeader": "İçilen Sigara Saatleri",
+            "emptyListText": "Henüz sigara içilmedi.",
+            "smokeButtonText": "Sigara İçtim",
+            "resetButtonText": "Yeni Güne Başla",
+            "limitButtonText": "Limit:",
+            "modalTitle": "Günlük Sigara Limitini Ayarla",
+            "modalPlaceholder": "Yeni limit girin",
+            "alertResetTitle": "Verileri Sıfırla",
+            "alertResetMessage": "Tüm günün verilerini sıfırlamak istediğinize emin misiniz? Bu işlem geri alınamaz.",
+            "alertInvalidLimitTitle": "Geçersiz Limit",
+            "alertInvalidLimitMessage": "Lütfen geçerli bir sayı girin.",
+            "alertRemoveTitle": "Kaydı Sil",
+            "alertRemoveMessage": "Bu sigara kaydını silmek istediğinizden emin misiniz?"
+        },
+        "history": {
+            "title": "Geçmiş Verilerim",
+            "smokedCount": "İçilen Sigara:",
+            "limit": "Limit:",
+            "overLimit": "Limit Aşıldı: {count} Sigara",
+            "historySubHeader": "İçme Saatleri:",
+            "emptyText": "Henüz geçmiş veri bulunmuyor.",
+            "alertDeleteTitle": "Kaydı Sil",
+            "alertDeleteMessage": "Bu kaydı kalıcı olarak silmek istediğinize emin misiniz?"
+        }
+    },
+    "en": {
+        "defaultError": {
+            "title": "Error",
+            "error": "Something went wrong. Please try again."
+        },
+        "common": {
+            "ok": "OK",
+            "cancel": "Cancel",
+            "save": "Save",
+            "delete": "Delete",
+            "weekdays": [
+                "Sunday",
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday"
+            ],
+            "months": [
+                "January",
+                "February",
+                "March",
+                "April",
+                "May",
+                "June",
+                "July",
+                "August",
+                "September",
+                "October",
+                "November",
+                "December"
+            ]
+        },
+        "home": {
+            "title": "Home",
+            "date": "Today {date}",
+            "timeSinceLastSmoke": "Time Since Last Smoke",
+            "smokedCount": "Total Smoked Today:",
+            "remainingSmokes": "Daily Smokes Remaining:",
+            "overLimit": "Over Limit: {count} Cigarettes",
+            "listHeader": "Smoking Times",
+            "emptyListText": "No cigarettes smoked yet.",
+            "smokeButtonText": "I Smoked",
+            "resetButtonText": "Start New Day",
+            "limitButtonText": "Limit:",
+            "modalTitle": "Set Daily Cigarette Limit",
+            "modalPlaceholder": "Enter new limit",
+            "alertResetTitle": "Reset Data",
+            "alertResetMessage": "Are you sure you want to reset all day's data? This action cannot be undone.",
+            "alertInvalidLimitTitle": "Invalid Limit",
+            "alertInvalidLimitMessage": "Please enter a valid number.",
+            "alertRemoveTitle": "Delete Entry",
+            "alertRemoveMessage": "Are you sure you want to delete this cigarette entry?"
+        },
+        "history": {
+            "title": "My Past Data",
+            "smokedCount": "Smoked:",
+            "limit": "Limit:",
+            "overLimit": "Over Limit: {count} Cigarettes",
+            "historySubHeader": "Smoking Times:",
+            "emptyText": "No past data available yet.",
+            "alertDeleteTitle": "Delete Entry",
+            "alertDeleteMessage": "Are you sure you want to permanently delete this entry?"
+        }
+    }
+}
