@@ -71,7 +71,6 @@ export default function HistoryScreen() {
     const renderItem = ({ item }: { item: HistoryEntry }) => (
         <SafeAreaView style={styles.historyItem}>
             <View style={styles.historyItemHeader}>
-                {/* Tarihi yeniden formatlıyoruz */}
                 <Text style={styles.historyDate}>{formatDateWithWeekday(item.date)}</Text>
                 <TouchableOpacity onPress={() => handleDelete(item)} style={styles.deleteButton}>
                     <Ionicons name="trash-bin-outline" size={24} color="#e74c3c" />
